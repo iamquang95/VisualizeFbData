@@ -130,4 +130,4 @@ def visualize(schools):
     sr_5_schools.print_pie_chart()
 
 #read_school_data("high_school_2.csv")
-visualize(read_school_data("high_school.csv"))
+visualize(read_school_data("new_high_school.csv"))
