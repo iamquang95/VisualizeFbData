@@ -1,0 +1,718 @@
+1,A Lưới,Thừa Thiên-Huế
+2,An Biên,Kiên Giang
+3,An Dương,Hải Phòng
+4,An Khê,Gia Lai
+5,An Lão,Hải Phòng
+6,An Lão,Bình Định
+7,An Minh,Kiên Giang
+8,An Nhơn,Bình Định
+9,An Phú,An Giang
+10,Anh Sơn,Nghệ An
+11,Ayun Pa,Gia Lai
+12,Ân Thi,Hưng Yên
+13,Ba Bể,Bắc Kạn
+14,Ba Chẽ,Quảng Ninh
+15,Ba Đình,Hà Nội
+16,Ba Đồn,Quảng Bình
+17,Ba Tơ,Quảng Ngãi
+18,Ba Tri,Bến Tre
+19,Ba Vì,Hà Nội
+20,Bà Rịa,Bà Rịa-Vũng Tàu
+21,Bá Thước,Thanh Hóa
+22,Bác Ái,Ninh Thuận
+23,Bạc Liêu,Bạc Liêu
+24,Bạch Long Vĩ,Hải Phòng
+25,Bạch Thông,Bắc Kạn
+26,Bảo Lạc,Cao Bằng
+27,Bảo Lâm,Cao Bằng
+28,Bảo Lâm,Lâm Đồng
+29,Bảo Lộc,Lâm Đồng
+30,Bảo Thắng,Lào Cai
+31,Bảo Yên,Lào Cai
+32,Bát Xát,Lào Cai
+33,Bàu Bàng,Bình Dương
+34,Bắc Bình,Bình Thuận
+35,Bắc Giang,Bắc Giang
+36,Bắc Hà,Lào Cai
+37,Bắc Kạn,Bắc Kạn
+38,Bắc Mê,Hà Giang
+39,Bắc Ninh,Bắc Ninh
+40,Bắc Quang,Hà Giang
+41,Bắc Sơn,Lạng Sơn
+42,Bắc Tân Uyên,Bình Dương
+43,Bắc Trà My,Quảng Nam
+44,Bắc Từ Liêm,Hà Nội
+45,Bắc Yên,Sơn La
+46,Bến Cát,Bình Dương
+47,Bến Cầu,Tây Ninh
+48,Bến Lức,Long An
+49,Bến Tre,Bến Tre
+50,Biên Hòa,Đồng Nai
+51,Bỉm Sơn,Thanh Hóa
+52,Bình Chánh,TP Hồ Chí Minh
+53,Bình Đại,Bến Tre
+54,Bình Gia,Lạng Sơn
+55,Bình Giang,Hải Dương
+56,Bình Liêu,Quảng Ninh
+57,Bình Long,Bình Phước
+58,Bình Lục,Hà Nam
+59,Bình Minh,Vĩnh Long
+60,Bình Sơn,Quảng Ngãi
+61,Bình Tân,TP Hồ Chí Minh
+62,Bình Tân,Vĩnh Long
+63,Bình Thạnh,TP Hồ Chí Minh
+64,Bình Thủy,Cần Thơ
+65,Bình Xuyên,Vĩnh Phúc
+66,Bố Trạch,Quảng Bình
+67,Bù Đăng,Bình Phước
+68,Bù Đốp,Bình Phước
+69,Bù Gia Mập,Bình Phước
+70,Buôn Đôn,Đắk Lắk
+71,Buôn Hồ,Đắk Lắk
+72,Buôn Ma Thuột,Đắk Lắk
+73,Cà Mau,Cà Mau
+74,Cai Lậy,Tiền Giang
+75,Cai Lậy,Tiền Giang
+76,Cái Bè,Tiền Giang
+77,Cái Nước,Cà Mau
+78,Cái Răng,Cần Thơ
+79,Cam Lâm,Khánh Hòa
+80,Cam Lộ,Quảng Trị
+81,Cam Ranh,Khánh Hòa
+82,Can Lộc,Hà Tĩnh
+83,Càng Long,Trà Vinh
+84,Cao Bằng,Cao Bằng
+85,Cao Lãnh,Đồng Tháp
+86,Cao Lãnh,Đồng Tháp
+87,Cao Lộc,Lạng Sơn
+88,Cao Phong,Hoà Bình
+89,Cát Hải,Hải Phòng
+90,Cát Tiên,Lâm Đồng
+91,Cẩm Giàng,Hải Dương
+92,Cẩm Khê,Phú Thọ
+93,Cẩm Lệ,Đà Nẵng
+94,Cẩm Mỹ,Đồng Nai
+95,Cẩm Phả,Quảng Ninh
+96,Cẩm Thủy,Thanh Hóa
+97,Cẩm Xuyên,Hà Tĩnh
+98,Cần Đước,Long An
+99,Cần Giờ,TP Hồ Chí Minh
+100,Cần Giuộc,Long An
+101,Cầu Giấy,Hà Nội
+102,Cầu Kè,Trà Vinh
+103,Cầu Ngang,Trà Vinh
+104,Châu Đốc,An Giang
+105,Châu Đức,Bà Rịa-Vũng Tàu
+106,Châu Phú,An Giang
+107,Châu Thành,An Giang
+108,Châu Thành,Bến Tre
+109,Châu Thành,Đồng Tháp
+110,Châu Thành,Hậu Giang
+111,Châu Thành,Kiên Giang
+112,Châu Thành,Long An
+113,Châu Thành,Sóc Trăng
+114,Châu Thành,Tây Ninh
+115,Châu Thành,Tiền Giang
+116,Châu Thành,Trà Vinh
+117,Châu Thành A,Hậu Giang
+118,Chi Lăng,Lạng Sơn
+119,Chí Linh,Hải Dương
+120,Chiêm Hóa,Tuyên Quang
+121,Chợ Đồn,Bắc Kạn
+122,Chợ Gạo,Tiền Giang
+123,Chợ Lách,Bến Tre
+124,Chợ Mới,Bắc Kạn
+125,Chợ Mới,An Giang
+126,Chơn Thành,Bình Phước
+127,Chư Păh,Gia Lai
+128,Chư Prông,Gia Lai
+129,Chư Pưh,Gia Lai
+130,Chư Sê,Gia Lai
+131,Chương Mỹ,Hà Nội
+132,Con Cuông,Nghệ An
+133,Cô Tô,Quảng Ninh
+134,Côn Đảo,Bà Rịa - Vũng Tàu
+135,Cồn Cỏ,Quảng Trị
+136,Cờ Đỏ,Cần Thơ
+137,Cù Lao Dung,Sóc Trăng
+138,Củ Chi,TP Hồ Chí Minh
+139,Cư Kuin,Đắk Lắk
+140,Cư Jút,Đắk Nông
+141,Cư M'gar,Đắk Lắk
+142,Cửa Lò,Nghệ An
+143,Dầu Tiếng,Bình Dương
+144,Di Linh,Lâm Đồng
+145,Dĩ An,Bình Dương
+146,Diên Khánh,Khánh Hòa
+147,Diễn Châu,Nghệ An
+148,Duy Tiên,Hà Nam
+149,Duy Xuyên,Quảng Nam
+150,Duyên Hải,Trà Vinh
+151,Duyên Hải,Trà Vinh
+152,Dương Kinh,Hải Phòng
+153,Dương Minh Châu,Tây Ninh
+154,Đa Krông,Quảng Trị
+155,Đà Bắc,Hoà Bình
+156,Đà Lạt,Lâm Đồng
+157,Đạ Huoai,Lâm Đồng
+158,Đạ Tẻh,Lâm Đồng
+159,Đại Lộc,Quảng Nam
+160,Đại Từ,Thái Nguyên
+161,Đắk Đoa,Gia Lai
+162,Đak Pơ,Gia Lai
+163,Đan Phượng,Hà Nội
+164,Đắk Glei,Kon Tum
+165,Đắk Glong,Đắk Nông
+166,Đắk Hà,Kon Tum
+167,Đắk Mil,Đắk Nông
+168,Đắk R'lấp,Đắk Nông
+169,Đăk Song,Đắk Nông
+170,Đăk Tô,Kon Tum
+171,Đầm Dơi,Cà Mau
+172,Đầm Hà,Quảng Ninh
+173,Đam Rông,Lâm Đồng
+174,Đất Đỏ,Bà Rịa - Vũng Tàu
+175,Điện Bàn,Quảng Nam
+176,Điện Biên,Điện Biên
+177,Điện Biên Đông,Điện Biên
+178,Điện Biên Phủ,Điện Biên
+179,Đình Lập,Lạng Sơn
+180,Định Hóa,Thái Nguyên
+181,Định Quán,Đồng Nai
+182,Đoan Hùng,Phú Thọ
+183,Đô Lương,Nghệ An
+184,Đồ Sơn,Hải Phòng
+185,Đông Anh,Hà Nội
+186,Đông Giang,Quảng Nam
+187,Đông Hà,Quảng Trị
+188,Đông Hải,Bạc Liêu
+189,Đông Hòa,Phú Yên
+190,Đông Hưng,Thái Bình
+191,Đông Sơn,Thanh Hóa
+192,Đông Triều,Quảng Ninh
+193,Đồng Hới,Quảng Bình
+194,Đồng Hỷ,Thái Nguyên
+195,Đồng Phú,Bình Phước
+196,Đồng Văn,Hà Giang
+197,Đồng Xoài,Bình Phước
+198,Đồng Xuân,Phú Yên
+199,Đống Đa,Hà Nội
+200,Đơn Dương,Lâm Đồng
+201,Đức Cơ,Gia Lai
+202,Đức Hòa,Long An
+203,Đức Huệ,Long An
+204,Đức Linh,Bình Thuận
+205,Đức Phổ,Quảng Ngãi
+206,Đức Thọ,Hà Tĩnh
+207,Đức Trọng,Lâm Đồng
+208,Ea H'leo,Đắk Lắk
+209,Ea Kar,Đắk Lắk
+210,Ea Súp,Đắk Lắk
+211,Gia Bình,Bắc Ninh
+212,Gia Lâm,Hà Nội
+213,Gia Lộc,Hải Dương
+214,Gia Nghĩa,Đăk Nông
+215,Gia Viễn,Ninh Bình
+216,Giá Rai,Bạc Liêu
+217,Giang Thành,Kiên Giang
+218,Giao Thủy,Nam Định
+219,Gio Linh,Quảng Trị
+220,Giồng Riềng,Kiên Giang
+221,Giồng Trôm,Bến Tre
+222,Gò Công,Tiền Giang
+223,Gò Công Đông,Tiền Giang
+224,Gò Công Tây,Tiền Giang
+225,Gò Dầu,Tây Ninh
+226,Gò Quao,Kiên Giang
+227,Gò Vấp,TP Hồ Chí Minh
+228,Hà Đông,Hà Nội
+229,Hà Giang,Hà Giang
+230,Hà Quảng,Cao Bằng
+231,Hà Tiên,Kiên Giang
+232,Hà Tĩnh,Hà Tĩnh
+233,Hà Trung,Thanh Hóa
+234,Hạ Hòa,Phú Thọ
+235,Hạ Lang,Cao Bằng
+236,Hạ Long,Quảng Ninh
+237,Hai Bà Trưng,Hà Nội
+238,Hải An,Hải Phòng
+239,Hải Châu,Đà Nẵng
+240,Hải Dương,Hải Dương
+241,Hải Hà,Quảng Ninh
+242,Hải Hậu,Nam Định
+243,Hải Lăng,Quảng Trị
+244,Hàm Tân,Bình Thuận
+245,Hàm Thuận Bắc,Bình Thuận
+246,Hàm Thuận Nam,Bình Thuận
+247,Hàm Yên,Tuyên Quang
+248,Hậu Lộc,Thanh Hóa
+249,Hiệp Đức,Quảng Nam
+250,Hiệp Hòa,Bắc Giang
+251,Hoa Lư,Ninh Bình
+252,Hòa An,Cao Bằng
+253,Hoà Bình,Bạc Liêu
+254,Hoà Bình,Hoà Bình
+255,Hòa Thành,Tây Ninh
+256,Hòa Vang,Đà Nẵng
+257,Hoài Ân,Bình Định
+258,Hoài Đức,Hà Nội
+259,Hoài Nhơn,Bình Định
+260,Hoàn Kiếm,Hà Nội
+261,Hoàng Mai,Hà Nội
+262,Hoàng Mai,Nghệ An
+263,Hoàng Sa,Đà Nẵng
+264,Hoàng Su Phì,Hà Giang
+265,Hoành Bồ,Quảng Ninh
+266,Hoằng Hóa,Thanh Hóa
+267,Hóc Môn,TP Hồ Chí Minh
+268,Hòn Đất,Kiên Giang
+269,Hớn Quản,Bình Phước
+270,Hội An,Quảng Nam
+271,Hồng Bàng,Hải Phòng
+272,Hồng Dân,Bạc Liêu
+273,Hồng Lĩnh,Hà Tĩnh
+274,Hồng Ngự,Đồng Tháp
+275,Hồng Ngự,Đồng Tháp
+276,Huế,Thừa Thiên - Huế
+277,Hưng Hà,Thái Bình
+278,Hưng Nguyên,Nghệ An
+279,Hưng Yên,Hưng Yên
+280,Hương Khê,Hà Tĩnh
+281,Hương Sơn,Hà Tĩnh
+282,Hương Thủy,Thừa Thiên - Huế
+283,Hương Trà,Thừa Thiên - Huế
+284,Hướng Hóa,Quảng Trị
+285,Hữu Lũng,Lạng Sơn
+286,Ia Grai,Gia Lai
+287,Ia H'Drai,Kon Tum
+288,Ia Pa,Gia Lai
+289,KBang,Gia Lai
+290,Kế Sách,Sóc Trăng
+291,Khánh Sơn,Khánh Hòa
+292,Khánh Vĩnh,Khánh Hòa
+293,Khoái Châu,Hưng Yên
+294,Kiên Hải,Kiên Giang
+295,Kiên Lương,Kiên Giang
+296,Kiến An,Hải Phòng
+297,Kiến Thụy,Hải Phòng
+298,Kiến Xương,Thái Bình
+299,Kiến Tường,Long An
+300,Kim Bảng,Hà Nam
+301,Kim Bôi,Hoà Bình
+302,Kim Động,Hưng Yên
+303,Kim Sơn,Ninh Bình
+304,Kim Thành,Hải Dương
+305,Kinh Môn,Hải Dương
+306,Kon Plông,Kon Tum
+307,Kon Rẫy,Kon Tum
+308,Kon Tum,Kon Tum
+309,Kông Chro,Gia Lai
+310,Krông Ana,Đắk Lắk
+311,Krông Bông,Đắk Lắk
+312,Krông Búk,Đắk Lắk
+313,Krông Năng,Đắk Lắk
+314,Krông Nô,Đắk Nông
+315,Krông Pa,Gia Lai
+316,Krông Pắk,Đắk Lắk
+317,Kỳ Anh,Hà Tĩnh
+318,Kỳ Anh,Hà Tĩnh
+319,Kỳ Sơn,Hoà Bình
+320,Kỳ Sơn,Nghệ An
+321,La Gi,Bình Thuận
+322,Lạc Dương,Lâm Đồng
+323,Lạc Sơn,Hoà Bình
+324,Lạc Thủy,Hoà Bình
+325,Lai Châu,Lai Châu
+326,Lai Vung,Đồng Tháp
+327,Lang Chánh,Thanh Hóa
+328,Lạng Giang,Bắc Giang
+329,Lạng Sơn,Lạng Sơn
+330,Lào Cai,Lào Cai
+331,Lắk,Đắk Lắk
+332,Lâm Bình,Tuyên Quang
+333,Lâm Hà,Lâm Đồng
+334,Lâm Thao,Phú Thọ
+335,Lấp Vò,Đồng Tháp
+336,Lập Thạch,Vĩnh Phúc
+337,Lê Chân,Hải Phòng
+338,Lệ Thủy,Quảng Bình
+339,Liên Chiểu,Đà Nẵng
+340,Long Biên,Hà Nội
+341,Long Điền,Bà Rịa-Vũng Tàu
+342,Long Hồ,Vĩnh Long
+343,Long Khánh,Đồng Nai
+344,Long Mỹ,Hậu Giang
+345,Long Mỹ,Hậu Giang
+346,Long Phú,Sóc Trăng
+347,Long Thành,Đồng Nai
+348,Long Xuyên,An Giang
+349,Lộc Bình,Lạng Sơn
+350,Lộc Hà,Hà Tĩnh
+351,Lộc Ninh,Bình Phước
+352,Lục Nam,Bắc Giang
+353,Lục Ngạn,Bắc Giang
+354,Lục Yên,Yên Bái
+355,Lương Sơn,Hoà Bình
+356,Lương Tài,Bắc Ninh
+357,Lý Nhân,Hà Nam
+358,Lý Sơn,Quảng Ngãi
+359,Mai Châu,Hoà Bình
+360,Mai Sơn,Sơn La
+361,Mang Thít,Vĩnh Long
+362,Mang Yang,Gia Lai
+363,M'Đrăk,Đắk Lắk
+364,Mèo Vạc,Hà Giang
+365,Mê Linh,Hà Nội
+366,Minh Hóa,Quảng Bình
+367,Minh Long,Quảng Ngãi
+368,Mỏ Cày Bắc,Bến Tre
+369,Mỏ Cày Nam,Bến Tre
+370,Móng Cái,Quảng Ninh
+371,Mộ Đức,Quảng Ngãi
+372,Mộc Châu,Sơn La
+373,Mộc Hóa,Long An
+374,Mù Căng Chải,Yên Bái
+375,Mường Ảng,Điện Biên
+376,Mường Chà,Điện Biên
+377,Mường Khương,Lào Cai
+378,Mường La,Sơn La
+379,Mường Lát,Thanh Hóa
+380,Mường Lay,Điện Biên
+381,Mường Nhé,Điện Biên
+382,Mường Tè,Lai Châu
+383,Mỹ Đức,Hà Nội
+384,Mỹ Hào,Hưng Yên
+385,Mỹ Lộc,Nam Định
+386,Mỹ Tho,Tiền Giang
+387,Mỹ Tú,Sóc Trăng
+388,Mỹ Xuyên,Sóc Trăng
+389,Na Hang,Tuyên Quang
+390,Na Rì,Bắc Kạn
+391,Nam Đàn,Nghệ An
+392,Nam Định,Nam Định
+393,Nam Đông,Thừa Thiên - Huế
+394,Nam Giang,Quảng Nam
+395,Nam Sách,Hải Dương
+396,Nam Trà My,Quảng Nam
+397,Nam Trực,Nam Định
+398,Nam Từ Liêm,Hà Nội
+399,Năm Căn,Cà Mau
+400,Nậm Pồ,Điện Biên
+401,Nậm Nhùn,Lai Châu
+402,Nga Sơn,Thanh Hóa
+403,Ngã Bảy,Hậu Giang
+404,Ngã Năm,Sóc Trăng
+405,Ngân Sơn,Bắc Kạn
+406,Nghi Lộc,Nghệ An
+407,Nghi Xuân,Hà Tĩnh
+408,Nghĩa Đàn,Nghệ An
+409,Nghĩa Hành,Quảng Ngãi
+410,Nghĩa Hưng,Nam Định
+411,Nghĩa Lộ,Yên Bái
+412,Ngọc Hiển,Cà Mau
+413,Ngọc Hồi,Kon Tum
+414,Ngọc Lặc,Thanh Hóa
+415,Ngô Quyền,Hải Phòng
+416,Ngũ Hành Sơn,Đà Nẵng
+417,Nguyên Bình,Cao Bằng
+418,Nha Trang,Khánh Hòa
+419,Nhà Bè,TP Hồ Chí Minh
+420,Nho Quan,Ninh Bình
+421,Nhơn Trạch,Đồng Nai
+422,Như Thanh,Thanh Hóa
+423,Như Xuân,Thanh Hóa
+424,Ninh Bình,Ninh Bình
+425,Ninh Giang,Hải Dương
+426,Ninh Hải,Ninh Thuận
+427,Ninh Hòa,Khánh Hòa
+428,Ninh Kiều,Cần Thơ
+429,Ninh Phước,Ninh Thuận
+430,Ninh Sơn,Ninh Thuận
+431,Nông Cống,Thanh Hóa
+432,Nông Sơn,Quảng Nam
+433,Núi Thành,Quảng Nam
+434,Ô Môn,Cần Thơ
+435,Pác Nặm,Bắc Kạn
+436,Phan Rang-Tháp Chàm,Ninh Thuận
+437,Phan Thiết,Bình Thuận
+438,Phong Điền,Thừa Thiên-Huế
+439,Phong Điền,Cần Thơ
+440,Phong Thổ,Lai Châu
+441,Phổ Yên,Thái Nguyên
+442,Phú Bình,Thái Nguyên
+443,Phú Giáo,Bình Dương
+444,Phú Hòa,Phú Yên
+445,Phú Lộc,Thừa Thiên-Huế
+446,Phú Lương,Thái Nguyên
+447,Phú Nhuận,TP Hồ Chí Minh
+448,Phú Ninh,Quảng Nam
+449,Phú Quý,Bình Thuận
+450,Phú Quốc,Kiên Giang
+451,Phú Riềng,Bình Phước
+452,Phú Tân,An Giang
+453,Phú Tân,Cà Mau
+454,Phú Thiện,Gia Lai
+455,Phú Thọ,Phú Thọ
+456,Phú Vang,Thừa Thiên-Huế
+457,Phú Xuyên,Hà Nội
+458,Phù Cát,Bình Định
+459,Phù Cừ,Hưng Yên
+460,Phù Mỹ,Bình Định
+461,Phù Ninh,Phú Thọ
+462,Phù Yên,Sơn La
+463,Phủ Lý,Hà Nam
+464,Phúc Thọ,Hà Nội
+465,Phúc Yên,Vĩnh Phúc
+466,Phục Hòa,Cao Bằng
+467,Phụng Hiệp,Hậu Giang
+468,Phước Long,Bình Phước
+469,Phước Long,Bạc Liêu
+470,Phước Sơn,Quảng Nam
+471,Pleiku,Gia Lai
+472,Quan Hóa,Thanh Hóa
+473,Quan Sơn,Thanh Hóa
+474,Quản Bạ,Hà Giang
+475,Quang Bình,Hà Giang
+476,Quảng Điền,Thừa Thiên-Huế
+477,Quảng Ngãi,Quảng Ngãi
+478,Quảng Ninh,Quảng Bình
+479,Quảng Trạch,Quảng Bình
+480,Quảng Trị,Quảng Trị
+481,Quảng Yên,Quảng Ninh
+482,Quảng Uyên,Cao Bằng
+483,Quảng Xương,Thanh Hóa
+484,Quận 1,TP Hồ Chí Minh
+485,Quận 2,TP Hồ Chí Minh
+486,Quận 3,TP Hồ Chí Minh
+487,Quận 4,TP Hồ Chí Minh
+488,Quận 5,TP Hồ Chí Minh
+489,Quận 6,TP Hồ Chí Minh
+490,Quận 7,TP Hồ Chí Minh
+491,Quận 8,TP Hồ Chí Minh
+492,Quận 9,TP Hồ Chí Minh
+493,Quận 10,TP Hồ Chí Minh
+494,Quận 11,TP Hồ Chí Minh
+495,Quận 12,TP Hồ Chí Minh
+496,Quế Phong,Nghệ An
+497,Quế Sơn,Quảng Nam
+498,Quế Võ,Bắc Ninh
+499,Quy Nhơn,Bình Định
+500,Quốc Oai,Hà Nội
+501,Quỳ Châu,Nghệ An
+502,Quỳ Hợp,Nghệ An
+503,Quỳnh Lưu,Nghệ An
+504,Quỳnh Nhai,Sơn La
+505,Quỳnh Phụ,Thái Bình
+506,Rạch Giá,Kiên Giang
+507,Sa Đéc,Đồng Tháp
+508,Sa Pa,Lào Cai
+509,Sa Thầy,Kon Tum
+510,Sầm Sơn,Thanh Hóa
+511,Si Ma Cai,Lào Cai
+512,Sìn Hồ,Lai Châu
+513,Sóc Sơn,Hà Nội
+514,Sóc Trăng,Sóc Trăng
+515,Sông Cầu,Phú Yên
+516,Sông Công,Thái Nguyên
+517,Sông Hinh,Phú Yên
+518,Sông Lô,Vĩnh Phúc
+519,Sông Mã,Sơn La
+520,Sốp Cộp,Sơn La
+521,Sơn Động,Bắc Giang
+522,Sơn Dương,Tuyên Quang
+523,Sơn Hà,Quảng Ngãi
+524,Sơn Hòa,Phú Yên
+525,Sơn La,Sơn La
+526,Sơn Tây,Hà Nội
+527,Sơn Tây,Quảng Ngãi
+528,Sơn Tịnh,Quảng Ngãi
+529,Sơn Trà,Đà Nẵng
+530,Tam Bình,Vĩnh Long
+531,Tam Dương,Vĩnh Phúc
+532,Tam Đảo,Vĩnh Phúc
+533,Tam Điệp,Ninh Bình
+534,Tam Đường,Lai Châu
+535,Tam Kỳ,Quảng Nam
+536,Tam Nông,Đồng Tháp
+537,Tam Nông,Phú Thọ
+538,Tánh Linh,Bình Thuận
+539,Tân An,Long An
+540,Tân Biên,Tây Ninh
+541,Tân Bình,TP Hồ Chí Minh
+542,Tân Châu,An Giang
+543,Tân Châu,Tây Ninh
+544,Tân Hiệp,Kiên Giang
+545,Tân Hồng,Đồng Tháp
+546,Tân Hưng,Long An
+547,Tân Kỳ,Nghệ An
+548,Tân Lạc,Hoà Bình
+549,Tân Phú,Đồng Nai
+550,Tân Phú,TP Hồ Chí Minh
+551,Tân Phú Đông,Tiền Giang
+552,Tân Phước,Tiền Giang
+553,Tân Sơn,Phú Thọ
+554,Tân Thành,Bà Rịa - Vũng Tàu
+555,Tân Thạnh,Long An
+556,Tân Trụ,Long An
+557,Tân Uyên,Bình Dương
+558,Tân Uyên,Lai Châu
+559,Tân Yên,Bắc Giang
+560,Tây Giang,Quảng Nam
+561,Tây Hòa,Phú Yên
+562,Tây Hồ,Hà Nội
+563,Tây Ninh,Tây Ninh
+564,Tây Sơn,Bình Định
+565,Tây Trà,Quảng Ngãi
+566,Thạch An,Cao Bằng
+567,Thạch Hà,Hà Tĩnh
+568,Thạch Thành,Thanh Hóa
+569,Thạch Thất,Hà Nội
+570,Thái Bình,Thái Bình
+571,Thái Hòa,Nghệ An
+572,Thái Nguyên,Thái Nguyên
+573,Thái Thụy,Thái Bình
+574,Than Uyên,Lai Châu
+575,Thanh Ba,Phú Thọ
+576,Thanh Bình,Đồng Tháp
+577,Thanh Chương,Nghệ An
+578,Thanh Hà,Hải Dương
+579,Thanh Hóa,Thanh Hóa
+580,Thanh Khê,Đà Nẵng
+581,Thanh Liêm,Hà Nam
+582,Thanh Miện,Hải Dương
+583,Thanh Oai,Hà Nội
+584,Thanh Sơn,Phú Thọ
+585,Thanh Thủy,Phú Thọ
+586,Thanh Trì,Hà Nội
+587,Thanh Xuân,Hà Nội
+588,Thạnh Hóa,Long An
+589,Thạnh Phú,Bến Tre
+590,Thạnh Trị,Sóc Trăng
+591,Tháp Mười,Đồng Tháp
+592,Thăng Bình,Quảng Nam
+593,Thiệu Hóa,Thanh Hóa
+594,Thọ Xuân,Thanh Hóa
+595,Thoại Sơn,An Giang
+596,Thông Nông,Cao Bằng
+597,Thống Nhất,Đồng Nai
+598,Thốt Nốt,Cần Thơ
+599,Thới Bình,Cà Mau
+600,Thới Lai,Cần Thơ
+601,Thủ Dầu Một,Bình Dương
+602,Thủ Đức,TP Hồ Chí Minh
+603,Thủ Thừa,Long An
+604,Thuận An,Bình Dương
+605,Thuận Bắc,Ninh Thuận
+606,Thuận Châu,Sơn La
+607,Thuận Nam,Ninh Thuận
+608,Thuận Thành,Bắc Ninh
+609,Thuỷ Nguyên,Hải Phòng
+610,Thường Tín,Hà Nội
+611,Thường Xuân,Thanh Hóa
+612,Tiên Du,Bắc Ninh
+613,Tiền Hải,Thái Bình
+614,Tiên Lãng,Hải Phòng
+615,Tiên Lữ,Hưng Yên
+616,Tiên Phước,Quảng Nam
+617,Tiên Yên,Quảng Ninh
+618,Tiểu Cần,Trà Vinh
+619,Tĩnh Gia,Thanh Hóa
+620,Tịnh Biên,An Giang
+621,Trà Bồng,Quảng Ngãi
+622,Trà Cú,Trà Vinh
+623,Trà Lĩnh,Cao Bằng
+624,Trà Ôn,Vĩnh Long
+625,Trà Vinh,Trà Vinh
+626,Trạm Tấu,Yên Bái
+627,Tràng Định,Lạng Sơn
+628,Trảng Bàng,Tây Ninh
+629,Trảng Bom,Đồng Nai
+630,Trấn Yên,Yên Bái
+631,Trần Đề,Sóc Trăng
+632,Trần Văn Thời,Cà Mau
+633,Tri Tôn,An Giang
+634,Triệu Phong,Quảng Trị
+635,Triệu Sơn,Thanh Hóa
+636,Trùng Khánh,Cao Bằng
+637,Trực Ninh,Nam Định
+638,Trường Sa,Khánh Hòa
+639,Tủa Chùa,Điện Biên
+640,Tuần Giáo,Điện Biên
+641,Tu Mơ Rông,Kon Tum
+642,Tuy An,Phú Yên
+643,Tuy Đức,Đăk Nông
+644,Tuy Hòa,Phú Yên
+645,Tuy Phong,Bình Thuận
+646,Tuy Phước,Bình Định
+647,Tuyên Hóa,Quảng Bình
+648,Tuyên Quang,Tuyên Quang
+649,Tư Nghĩa,Quảng Ngãi
+650,Tứ Kỳ,Hải Dương
+651,Từ Sơn,Bắc Ninh
+652,Tương Dương,Nghệ An
+653,U Minh,Cà Mau
+654,U Minh Thượng,Kiên Giang
+655,Uông Bí,Quảng Ninh
+656,Ứng Hòa,Hà Nội
+657,Vạn Ninh,Khánh Hòa
+658,Văn Bàn,Lào Cai
+659,Văn Chấn,Yên Bái
+660,Văn Giang,Hưng Yên
+661,Vãn Lãng,Lạng Sơn
+662,Văn Lâm,Hưng Yên
+663,Văn Quan,Lạng Sơn
+664,Văn Yên,Yên Bái
+665,Vân Canh,Bình Định
+666,Vân Đồn,Quảng Ninh
+667,Vân Hồ,Sơn La
+668,Vị Thanh,Hậu Giang
+669,Vị Thủy,Hậu Giang
+670,Vị Xuyên,Hà Giang
+671,Việt Trì,Phú Thọ
+672,Việt Yên,Bắc Giang
+673,Vinh,Nghệ An
+674,Vĩnh Bảo,Hải Phòng
+675,Vĩnh Châu,Sóc Trăng
+676,Vĩnh Cửu,Đồng Nai
+677,Vĩnh Hưng,Long An
+678,Vĩnh Linh,Quảng Trị
+679,Vĩnh Long,Vĩnh Long
+680,Vĩnh Lộc,Thanh Hóa
+681,Vĩnh Lợi,Bạc Liêu
+682,Vĩnh Thạnh,Bình Định
+683,Vĩnh Thạnh,Cần Thơ
+684,Vĩnh Thuận,Kiên Giang
+685,Vĩnh Tường,Vĩnh Phúc
+686,Vĩnh Yên,Vĩnh Phúc
+687,Võ Nhai,Thái Nguyên
+688,Vũ Quang,Hà Tĩnh
+689,Vũ Thư,Thái Bình
+690,Vụ Bản,Nam Định
+691,Vũng Liêm,Vĩnh Long
+692,Vũng Tàu,Bà Rịa - Vũng Tàu
+693,Xín Mần,Hà Giang
+694,Xuân Lộc,Đồng Nai
+695,Xuân Trường,Nam Định
+696,Xuyên Mộc,Bà Rịa - Vũng Tàu
+697,Ý Yên,Nam Định
+698,Yên Bái,Yên Bái
+699,Yên Bình,Yên Bái
+700,Yên Châu,Sơn La
+701,Yên Dũng,Bắc Giang
+702,Yên Định,Thanh Hóa
+703,Yên Khánh,Ninh Bình
+704,Yên Lạc,Vĩnh Phúc
+705,Yên Lập,Phú Thọ
+706,Yên Minh,Hà Giang
+707,Yên Mô,Ninh Bình
+708,Yên Mỹ,Hưng Yên
+709,Yên Phong,Bắc Ninh
+710,Yên Sơn,Tuyên Quang
+711,Yên Thành,Nghệ An
+712,Yên Thế,Bắc Giang
+713,Yên Thủy,Hoà Bình
+714,Hanoi,Hà Nội
+715,Hồ Chí Minh,TP Hồ Chí Minh
+716,Ho Chi Minh City,TP Hồ Chí Minh
+717,Dac Lak,Đắk Lắk
+718,Ha Tay,Hà Nội
