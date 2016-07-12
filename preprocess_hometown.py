@@ -2,26 +2,7 @@
 import json
 import codecs
 
-import sys  
-
-reload(sys)  
-sys.setdefaultencoding('utf8')
-
-import re
-
-ITAB = "ạảãàáâậầấẩẫăắằặẳẵóòọõỏôộổỗồốơờớợởỡéèẻẹẽêếềệểễúùụủũưựữửừứíìịỉĩýỳỷỵỹđẠẢÃÀÁÂẬẦẤẨẪĂẮẰẶẲẴÓÒỌÕỎÔỘỔỖỒỐƠỜỚỢỞỠÉÈẺẸẼÊẾỀỆỂỄÚÙỤỦŨƯỰỮỬỪỨÍÌỊỈĨÝỲỶỴỸĐÐ"
-INTAB = [ch.encode('utf8') for ch in unicode(ITAB, 'utf8')]
-
-
-OUTTAB = "a" * 17 + "o" * 17 + "e" * 11 + "u" * 11 + "i" * 5 + "y" * 5 + "d" + \
-         "A" * 17 + "O" * 17 + "E" * 11 + "U" * 11 + "I" * 5 + "Y" * 5 + "D" * 2
-
-r = re.compile("|".join(INTAB))
-replaces_dict = dict(zip(INTAB, OUTTAB))
-
-
-def no_accent_vietnamese(utf8_str):   
-    return r.sub(lambda m: replaces_dict[m.group(0)], utf8_str)
+import util
 
 total = 0
 hometown = {}
@@ -50,14 +31,14 @@ def output(schools, file_name):
 def read_huyen():
     with open('tinh.csv','r') as fi:
         for line in fi:
-            cur = [no_accent_vietnamese(s).encode('utf-8') for s in line.strip().split(',')]
+            cur = [util.no_accent_vietnamese(s).encode('utf-8') for s in line.strip().split(',')]
             huyen[ cur[1] ] = cur[2]
             # print cur
             
 def process(id, name, cnt=1):
     name = name.encode('utf-8')
     # print name
-    name = no_accent_vietnamese(name)
+    name = util.no_accent_vietnamese(name)
     for s in name.split(','):        
         ss = s.strip()
         # ss = no_accent_vietnamese(ss)        
@@ -71,7 +52,7 @@ def process(id, name, cnt=1):
 
 read_huyen()            
 # """
-with open('profiles.txt','r') as fi:    
+with open('vnu_profiles.txt','r') as fi:    
     for line in fi:
         # print line
         cur = json.loads(line)
