@@ -14,9 +14,11 @@ def output(schools, file_name):
     with codecs.open(file_name,'w','utf-8') as fo:
         for key, value in s:       
             # fo.write(key+' '+value+'\n')
-            fo.write('%s\t%s\t%d\n' % (key, value[0], value[1]))
+            # fo.write('%s\t%s\t%d\n' % (key, value[0], value[1]))
+            for i in xrange(value[1]):
+                fo.write(value[0] + '\n')
             total += value[1]
-        fo.write('%d\n' % total)
+        # fo.write('%d\n' % total)
 
             
 def process(id, name, cnt=1):
@@ -32,7 +34,7 @@ def process(id, name, cnt=1):
                 return
         # print '---', ss
     
-    print id, name
+    # print id, name
     
 def process(container, item):
     if item.has_key('name'):
@@ -51,7 +53,7 @@ with open('vnu_profiles.txt','r') as fi:
             works = cur['work']
             for work in works:
                 if work.has_key('position'):
-                    position = work['position']
+                    position = work['position']                    
                     process(positions, position)
                 if work.has_key('employer'):
                     employer = work['employer']

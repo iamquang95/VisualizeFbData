@@ -56,11 +56,11 @@ def process(container, id, name, cnt=1):
                 return
         # print '---', ss
     
-    print id, name
+    # print id, name
     
 def process_province(container, container_cnt, item, keyword):
     if item.has_key(keyword):
-        town = cur[keyword]
+        town = item[keyword]
         id = town['id']
         name = town['name']
         if not container.has_key(id):
@@ -69,25 +69,28 @@ def process_province(container, container_cnt, item, keyword):
         else:
             container_cnt[id] += 1            
 
-read_huyen()            
-# """
-with open('vnu_profiles.txt','r') as fi:    
-    for line in fi:
-        # print line
-        cur = json.loads(line)
-        process_province(hometown, cnt_hometown, cur, 'hometown')
-        process_province(location, cnt_location, cur, 'location')
-                
-for key,value in hometown.iteritems():
-    process(home, key, value, cnt_hometown[key])
-for key,value in location.iteritems():
-    process(loc, key, value, cnt_location[key])
+def solve(file, hometown_file, location_file):       
+    read_huyen()            
+    # """
+    with open(file,'r') as fi:    
+        for line in fi:
+            # print line
+            cur = json.loads(line)
+            process_province(hometown, cnt_hometown, cur, 'hometown')
+            process_province(location, cnt_location, cur, 'location')
+                    
+    for key,value in hometown.iteritems():
+        process(home, key, value, cnt_hometown[key])
+    for key,value in location.iteritems():
+        process(loc, key, value, cnt_location[key])
+        
+    # for key,value
+        
+    print total
+    output(home, hometown_file)
+    output(loc, location_file)
     
-# for key,value
-    
-print total
-output(home, 'hometown.txt')
-output(loc, 'location.txt')
+solve('vnuhcm_profiles.txt', 'vnuhcm_hometown.txt', 'vnuhcm_location.txt')
 
 
 # output(university, 'university.txt')
